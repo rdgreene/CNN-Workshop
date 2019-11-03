@@ -1,4 +1,4 @@
 # CNN-Workshop
 Code for CNN Workshop
 
-Bitly Link: http://bit.ly/338bWFj
+Bitly Link: http://bit.ly/32b68tr
